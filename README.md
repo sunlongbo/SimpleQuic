@@ -5,3 +5,4 @@ Simple QUIC/Http3 implementation for iOS based on google Cronet
 
 1. Cronet.framework 是缩减后的CRONET动态库，可以直接嵌入工程使用
 2. SimpleQUICTest 是测试demo，请求测试站点quic.roks, 如果是以QUIC的方式请求会打印出成功日志
+3. static/Cronet.framework 是缩减后的静态库
